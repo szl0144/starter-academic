@@ -19,7 +19,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
 - Computing Network
-- System Management and Troubleshoot
+- System Troubleshoot and Maintenance
 - Database Administration
 
 # Education to show in About widget
