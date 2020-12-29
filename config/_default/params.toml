@@ -105,7 +105,7 @@ contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   {icon = "github", icon_pack = "fab", name = "See My Github", link = "https://github.com/szl0144/"},
-  {icon = "email", icon_pack = "fas", name = "Email Me", link = "shaoyi.li@pax.us"},
+  #{icon = "email", icon_pack = "fas", name = "Email Me", link = "shaoyi.li@pax.us"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
