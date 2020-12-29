@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Master of Electrical and Computing Engineering 
+  - course: ME and Computing Engineering 
     institution: Auburn University
     year: 08/2017-12/2020
   - course: BE of Electronic and Information Engineering
@@ -66,6 +66,6 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-Test
+Master of Science in Electrical and Computing Engineer (3-year STEM) Program, with hands-on experience in computing network, wireless network, network protocol, server system and database, machine/deep learning and research.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
