@@ -27,10 +27,10 @@ education:
   courses:
   - course: ME and Computing Engineering 
     institution: Auburn University
-    year: 08/2017-12/2020
+    year: 12/2020
   - course: BE of Electronic and Information Engineering
     institution: Hangzhou Dianzi University
-    year: 09/2013-07/2017
+    year: 07/2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
