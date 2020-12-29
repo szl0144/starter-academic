@@ -45,7 +45,7 @@ social:
   link: https://twitter.com/home
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.com/citations?user=V-KMcPcAAAAJ&hl=zh-CN
+  link: https://scholar.google.com/citations?hl=zh-CN&user=V-KMcPcAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/szl0144
