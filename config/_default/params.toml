@@ -88,16 +88,16 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "test@example.org"
-phone = "888 888 88 88"
+email = "shaoyi.li@pax.us"
+phone = "3345249438"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "450 Serra Mall", city = "Stanford", region = "CA", postcode = "94305", country = "United States", country_code = "US"}
+address = {street = "8880 Freedom Crossing Trail building 400 ste 300", city = "Jacksonville", region = "FL", postcode = "32256", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.4275", longitude = "-122.1697"}
+coordinates = {latitude = "30.21380545829732", longitude = "-81.56938029837939"}
 
 # Directions for visitors to locate you.
 directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
