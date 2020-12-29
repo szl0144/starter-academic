@@ -19,8 +19,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
 - Computing Network
-- Database Administration
 - System Management and Troubleshoot
+- Database Administration
 
 # Education to show in About widget
 education:
@@ -66,6 +66,6 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-Master of Science in Electrical and Computing Engineer (3-year STEM) Program, with hands-on experience in computing network, wireless network, network protocol, server system and database, machine/deep learning and research.
+Shaoyi Li currently work as System Operation Administrator in PAX Technology Inc., with hands-on experience in computing network, wireless communication system, server system and database administrator, machine/deep learning and research.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
