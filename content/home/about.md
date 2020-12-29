@@ -1,6 +1,6 @@
 ---
 widget: about
-widget_id: Test
+widget_id: Introduction
 headless: true
 weight: 20
 title: ""
