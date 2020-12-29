@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: ME and Computing Engineering 
+  - course: ME of Electrical and Computing Engineering 
     institution: Auburn University
     year: 12/2020
   - course: BE of Electronic and Information Engineering
