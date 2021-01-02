@@ -53,7 +53,13 @@ experience:
 
 
   - title: Regional Manager Assistant
-
+    company: Auburn University
+    company_url: ''
+    location: Auburn, AL
+    date_start: '2018-07-15'
+    date_end: '2020-10-16'
+    description: |2-
+        Responsibilities include:
 
 
 
