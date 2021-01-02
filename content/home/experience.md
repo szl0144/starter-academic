@@ -43,7 +43,7 @@ experience:
     location: Auburn, AL
     date_start: '2018-07-15'
     date_end: '2020-10-16'
- description: |2-
+    description: |2-
         Responsibilities include:
         
         * Designed and tested a novel low-latency network scheduling module for various queueing policies using C/C++ under Linux Ubuntu system, and evaluated the algorithm in WAN under Common Open Research Emulator (CORE)
