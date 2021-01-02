@@ -52,18 +52,7 @@ experience:
         * Predicted scene depth from self-driving monocular video and studied the influences of Age of Information in frame sampling with DispNetS model using Python 
 
   - title: Regional Manager Assistant (volunteer)
-    company: China Telecom Americas
-    company_url: ''
-    location: AHerndon, VA
-    date_start: '2018-05'
-    date_end: '2020-10'
-    description: |2-
-        Responsibilities include:
-        
-        * Expands brand among Alabama. Creates highest campus market growth rate record 1576.92% among United States in 2018 summer internship and acquired more than 1000 international students customers.
-        * Coordinates 118 China orientations of American Universities and 44 Chinese spring festival gala to promote and advertise products as program leader
-        *  Analyses regional marketing data, negotiates 59 annual contracts, established 17 new partners in Midwest USA (18 States) Chinese communities with my supervisor
-        * Reponsible for running the regional TikTok account including story design, filming and video production
+
 
 
 
