@@ -51,14 +51,14 @@ experience:
         * Forecasted COVID-19 cases in Italy with short-term memory (LSTM) and modified the SEIR model with estimated model parameters using Python
         * Predicted scene depth from self-driving monocular video and studied the influences of Age of Information in frame sampling with DispNetS model using Python 
   
-   - title: Regional Manager Assistant (volunteer)
-     company: China Telecom Americas
-     company_url: 'https://www.ctamericas.com/'
-     location: Herndon, VA
-     date_start: '2018-05'
-     date_end: '2020-10'
-     description: |2-
-         Responsibilities include:
+  - title: Regional Manager Assistant (volunteer)
+    company: China Telecom Americas
+    company_url: 'https://www.ctamericas.com/'
+    location: Herndon, VA
+    date_start: '2018-05'
+    date_end: '2020-10'
+    description: |2-
+        Responsibilities include:
              
          * Expands brand among Alabama. Creates highest campus market growth rate record 1576.92% among United States in 2018 summer internship and acquired more than 1000 international students customers.
          * Coordinates 118 China orientations of American Universities and 44 Chinese spring festival gala to promote and advertise products as program leader
