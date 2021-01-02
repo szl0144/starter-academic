@@ -56,8 +56,8 @@ experience:
     company: China Telecom Americas
     company_url: 'https://www.ctamericas.com/'
     location: Herndon, VA
-    date_start: '2018-05'
-    date_end: '2020-10'
+    date_start: '2018-05-15'
+    date_end: '2020-10-16'
     description: |2-
         Responsibilities include:
 
