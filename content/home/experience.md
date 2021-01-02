@@ -52,7 +52,7 @@ experience:
         * Predicted scene depth from self-driving monocular video and studied the influences of Age of Information in frame sampling with DispNetS model using Python 
 
 
-  - title: Regional Manager Assistant
+  - title: Regional Manager Assistant (Volunteer)
     company: China Telecom Americas
     company_url: 'https://www.ctamericas.com/'
     location: Herndon, VA
@@ -66,5 +66,18 @@ experience:
         * Analyses regional marketing data, negotiates 59 annual contracts, established 17 new partners in Midwest USA (18 States) Chinese communities with my supervisor
         * Reponsible for running the regional TikTok account including story design, filming and video production
 
+  - title: Research Assistant
+    company: Huzhou Kefeng Magnetic Industry Co., Ltd
+    company_url: ''
+    location: Huzhou, China
+    date_start: '2015-06-1'
+    date_end: '2015-07-1'
+    description: |2-
+        Responsibilities include:
+        
+        * Assisted in the research program of Mn-Zn ferrite with high impedance and wide anti-jam frequency range, optimized the manufacturing process using LEAN principles
+        * Finished a survey of the marketing, competitors, opportunities and risks of the research program in Yangtze River Delta area.
+        * Led 2015 and 2016 National Undergraduate entrepreneurship training program basing on the program
+        * Led and won the first prize in China College Student's Entrepreneurship Competition (Zhejiang Division) basing on the program
 
 ---
