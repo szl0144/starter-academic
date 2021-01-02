@@ -65,4 +65,6 @@ experience:
         *  Analyses regional marketing data, negotiates 59 annual contracts, established 17 new partners in Midwest USA (18 States) Chinese communities with my supervisor
         * Reponsible for running the regional TikTok account including story design, filming and video production
 
+
+
 ---
