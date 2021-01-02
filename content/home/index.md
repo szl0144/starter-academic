@@ -3,7 +3,7 @@
 type: widget_page
 
 background:
-  color: 'minimal'
+  color: 'Blue'
   # Text color (true=light or false=dark).
   text_color_light: true
   
