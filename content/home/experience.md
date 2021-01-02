@@ -53,11 +53,11 @@ experience:
 
 
   - title: Regional Manager Assistant
-    company: Auburn University
-    company_url: ''
-    location: Auburn, AL
-    date_start: '2018-07-15'
-    date_end: '2020-10-16'
+    company: China Telecom Americas
+    company_url: 'https://www.ctamericas.com/'
+    location: Herndon, VA
+    date_start: '2018-05'
+    date_end: '2020-10'
     description: |2-
         Responsibilities include:
 
