@@ -51,7 +51,7 @@ experience:
         * Forecasted COVID-19 cases in Italy with short-term memory (LSTM) and modified the SEIR model with estimated model parameters using Python
         * Predicted scene depth from self-driving monocular video and studied the influences of Age of Information in frame sampling with DispNetS model using Python 
 
-   - title: Regional Manager Assistant (volunteer)
+  - title: Regional Manager Assistant (volunteer)
 
 
 
