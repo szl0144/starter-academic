@@ -22,18 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
-    date_end: ''
+  - title: System Operation Administrator
+    company: PAX Technology
+    company_url: 'https://www.pax.us/'
+    location: Jacksonville, FL
+    date_start: '2020-10-19'
+    date_end: '2020-12-31'
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Troubleshoot PAXSTORE system vulnerabilities in Dell Server iDRAC, vSphere ESXi host, vSphere vCenter, Zabbix and Virtual machines under CentOS, SUSE and Windows Operating system using bash scripts.
+        * Release and update development server systems, set up and maintain Luna EFT HSM encryption machine, DNS servers, storage servers, web servers, Zabbix servers and Virtual Machines for US and China developments teams.
+        * Monitor the development systems using Zabbix
+        * Create system troubleshoot manuals for US and China system administration department. 
+        * Administrate, operate and monitor the Database with MySQL.
         
   - title: Professor
     company: University X
