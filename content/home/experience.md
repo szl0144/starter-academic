@@ -37,11 +37,17 @@ experience:
         * Create system troubleshoot manuals for US and China system administration department. 
         * Administrate, operate and monitor the Database with MySQL.
         
-  - title: Professor
-    company: University X
+  - title: Research Assistant
+    company: Auburn University
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Auburn, AL
+    date_start: '2018-07-15'
+    date_end: '2020-10-16'
+ description: |2-
+        Responsibilities include:
+        
+        * Designed and tested a novel low-latency network scheduling module for various queueing policies using C/C++ under Linux Ubuntu system, and evaluated the algorithm in WAN under Common Open Research Emulator (CORE)
+        * Implemented and debugged a WiFi batteries lifetime saving scheduling algorithm for CSMA protocol in Network Simulator 3 (NS-3) using C/C++ under Linux Ubuntu system
+        * Forecasted COVID-19 cases in Italy with short-term memory (LSTM) and modified the SEIR model with estimated model parameters using Python
+        * Predicted scene depth from self-driving monocular video and studied the influences of Age of Information in frame sampling with DispNetS model using Python 
 ---
