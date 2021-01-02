@@ -70,8 +70,8 @@ experience:
     company: Huzhou Kefeng Magnetic Industry Co., Ltd
     company_url: ''
     location: Huzhou, China
-    date_start: '2015-06-1'
-    date_end: '2015-07-1'
+    date_start: '2015-06-01'
+    date_end: '2015-07-01'
     description: |2-
         Responsibilities include:
         
