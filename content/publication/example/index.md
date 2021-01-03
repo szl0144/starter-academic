@@ -23,7 +23,7 @@ publication_types: ["7"]
 publication: In *Auburn.edu*
 publication_short: In * *
 
-abstract: A variation packets delay which is also called packet jitter causes packet loss and delay. 
+abstract: A variation packets delay which is also called packet jitter causes packet loss and delay. When jitter happens to stream video, users suffer an annoying freezes which results in user unpleasant. 
 
 # Summary. An optional shortened abstract.
 summary: 
