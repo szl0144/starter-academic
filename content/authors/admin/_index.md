@@ -69,4 +69,4 @@ highlight_name: false
 
 Introduction: Shaoyi Li is currently working as the System Operation Administrator in PAX Technology Inc., with hands-on experience in computing network, wireless telecommunication system, server and database administration, machine/deep learning and research.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resume{{< /staticref >}}.
