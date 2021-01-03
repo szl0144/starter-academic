@@ -23,7 +23,7 @@ publication_types: ["7"]
 publication: In *Auburn.edu*
 publication_short: In * *
 
-abstract: A variation packets delay which is also called packet jitter causes packet loss and delay. When jitter happens to stream video, users suffer an annoying freezes which results in user unpleasant. The solution for reducing jitter probability is a low latency low-complexity scheduling policy in queuing system: the Earliest Due Date first (EDD) policy. To evaluate the performance of EDD in a real-world wireless network system. We implement EDD algorithms on Extendable Mobile Ad-hoc Network Emulator (EMANE) to take virtual field tests. In this paper, we present the design and implementation of a low-complexity queue scheduling module in both single-hop multi-server systems using C/C++. We also show an efficient debug method in EMANE development. Our emulation results demonstrate the EDD policy achieves over 1000x reduction in jitter probability compared to the commonly used FCFS policy.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 
 # Summary. An optional shortened abstract.
