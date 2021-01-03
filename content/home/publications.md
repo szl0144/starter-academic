@@ -21,6 +21,9 @@ content:
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
+  title: Low Latency Queuing Control in Extendable Mobile Ad-hoc Network Emulator (EMANE)
+  publication_type:7
+  date:2019
   # Filter on criteria
   filters:
     tag: ''
