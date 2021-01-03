@@ -7,9 +7,9 @@ widget: featured
 headless: true
 
 # Order that this section appears on the page.
-weight: 80
+weight: 90
 
-title: Featured Publications
+title: Low Latency Queuing Control in Extendable Mobile Ad-hoc Network Emulator (EMANE)
 subtitle: ""
 
 content:
@@ -19,9 +19,9 @@ content:
   count: 0
   # Filter on criteria
   filters:
-    author: ""
+    author: "Shaoyi Li"
     category: ""
-    publication_type: ""
+    publication_type: "7"
     tag: ""
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
