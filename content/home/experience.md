@@ -29,7 +29,6 @@ experience:
     date_start: '2020-10-19'
     date_end: '2020-12-31'
     description: |2-
-        Responsibilities include:
         
         * Troubleshoot PAXSTORE system vulnerabilities in Dell Server iDRAC, vSphere ESXi host, vSphere vCenter, Zabbix and Virtual machines under CentOS, SUSE and Windows Operating system using bash scripts.
         * Release and update development server systems, set up and maintain Luna EFT HSM encryption machine, DNS servers, storage servers, web servers, Zabbix servers and Virtual Machines for US and China developments teams.
@@ -44,7 +43,6 @@ experience:
     date_start: '2018-07-15'
     date_end: '2020-10-16'
     description: |2-
-        Responsibilities include:
         
         * Designed and tested a novel low-latency network scheduling module for various queueing policies using C/C++ under Linux Ubuntu system, and evaluated the algorithm in WAN under Common Open Research Emulator (CORE)
         * Implemented and debugged a WiFi batteries lifetime saving scheduling algorithm for CSMA protocol in Network Simulator 3 (NS-3) using C/C++ under Linux Ubuntu system
@@ -59,7 +57,6 @@ experience:
     date_start: '2018-05-15'
     date_end: '2020-10-16'
     description: |2-
-        Responsibilities include:
         
         * Expands brand among Alabama. Creates highest campus market growth rate record 1576.92% among United States in 2018 summer internship and acquired more than 1000 international students customers.
         * Coordinates 118 China orientations of American Universities and 44 Chinese spring festival gala to promote and advertise products as program leader
@@ -73,7 +70,6 @@ experience:
     date_start: '2015-06-01'
     date_end: '2015-07-01'
     description: |2-
-        Responsibilities include:
         
         * Assisted in the research program of Mn-Zn ferrite with high impedance and wide anti-jam frequency range, optimized the manufacturing process using LEAN principles
         * Finished a survey of the marketing, competitors, opportunities and risks of the research program in Yangtze River Delta area.
