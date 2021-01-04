@@ -17,17 +17,12 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/georgecushen
-url_code: ""
+url_code: "https://github.com/szl0144/EMANE_CORE"
 url_pdf: ""
 url_slides: ""
 url_video: ""
 
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
+
 ---
 
 A variation packets delay which is also called packet jitter causes packet loss and delay. When jitter happens to stream video, users suffer an annoying freezes which results in user unpleasant. The solution for reducing jitter probability is a low latency low-complexity scheduling policy in queuing system: the Earliest Due Date first (EDD) policy. To evaluate the performance of EDD in a real-world wireless network system. We implement EDD algorithms on Extendable Mobile Ad-hoc Network Emulator (EMANE) to take virtual field tests. In this paper, we present the design and implementation of a low-complexity queue scheduling module in both single-hop multi-server systems using C/C++. We also show an efficient debug method in EMANE development. Our emulation results demonstrate the EDD policy achieves over 1000x reduction in jitter probability compared to the commonly used FCFS policy.
