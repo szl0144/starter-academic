@@ -4,7 +4,8 @@ summary: Implemented and debugged a WiFi batteries lifetime saving scheduling al
 tags:
 - Computing Network
 date: "2019-12-15T00:00:00Z"
-image_preview:"featured.jpg"
+image:
+  preview_only:true
 external_link: "https://github.com/szl0144/NS3_Wifi_CSMA"
 ---
 
