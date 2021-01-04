@@ -13,8 +13,6 @@ organizations:
 - name: PAX Technology Inc.
   url: https://www.pax.us/
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
@@ -67,6 +65,7 @@ email: ""
 highlight_name: false
 ---
 
-Introduction: Shaoyi Li is currently working as the System Operation Administrator in PAX Technology Inc., with hands-on experience in computing network, wireless telecommunication system, server and database administration, machine/deep learning and research.
+**Introduction**
+Shaoyi Li is currently working as the System Operation Administrator in PAX Technology Inc., with hands-on experience in computing network, wireless telecommunication system, server and database administration, machine/deep learning and research.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resume{{< /staticref >}}.
