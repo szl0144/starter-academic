@@ -48,7 +48,8 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
-publishDate: "2019-12-14T00:00:00Z" authors: - Shaoyi Li
+publishDate: "2019-12-14T00:00:00Z" authors: 
+- Shaoyi Li
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
