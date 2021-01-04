@@ -5,7 +5,8 @@ tags:
 - Computing Network
 date: "2019-12-15T00:00:00Z"
 
-image:"featured.jpg"
+image:
+    "/NS3/featured.jpg"
 
 links:
 url_code: "https://github.com/szl0144/NS3_Wifi_CSMA"
