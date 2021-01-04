@@ -8,7 +8,7 @@ title: "Low Latency Queuing Control in Extendable Mobile Ad-hoc Network Emulator
 authors: 
 - Shaoyi Li
 
-date: "2019-12-14T00:00:00Z"
+date: "2019-12-14"
 # Schedule page publish date (NOT publication's date).
 
 
