@@ -5,7 +5,7 @@ title: "Low Latency Queuing Control in Extendable Mobile Ad-hoc Network Emulator
 authors: ["Shaoyi Li"]
 date: "2019-12-01"
 publication_types: ["7"]
-
+pubtype: "Preprint"
 
 
 # Publication name and optional abbreviated publication name.
@@ -30,6 +30,9 @@ projects:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: "publication/sildes.pdf"
+
+sitemap:
+  priority : 0.8
 ---
 
 
