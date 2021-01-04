@@ -35,6 +35,8 @@ slides: "sildes.pdf"
 
 sitemap:
   priority : 0.8
+  
+github: "https://github.com/danieliong/MRPATH"
 ---
 
 
