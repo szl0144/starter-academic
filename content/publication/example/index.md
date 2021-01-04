@@ -5,10 +5,6 @@ title: "Low Latency Queuing Control in Extendable Mobile Ad-hoc Network Emulator
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 
-authors: 
-- Shaoyi Li
-
-date: "2019-12-14"
 # Schedule page publish date (NOT publication's date).
 
 
