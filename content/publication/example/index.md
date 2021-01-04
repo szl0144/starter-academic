@@ -6,9 +6,11 @@ title: "Low Latency Queuing Control in Extendable Mobile Ad-hoc Network Emulator
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
+authors:
+- Shaoyi Li
 
 # Schedule page publish date (NOT publication's date).
-
+date: "2019-12-01"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +18,10 @@ title: "Low Latency Queuing Control in Extendable Mobile Ad-hoc Network Emulator
 # 7 = Thesis; 8 = Patent
 publication_types: ["7"]
 
+
+
 # Publication name and optional abbreviated publication name.
+publication: In *Auburn.edu*
 
 abstract: 
 
