@@ -7,7 +7,10 @@ title: "Low Latency Queuing Control in Extendable Mobile Ad-hoc Network Emulator
 authors:
 - 
 
-date: ""
+authors: 
+- Shaoyi Li
+
+date: "2019-12-14T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -46,9 +49,7 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
-publishDate: "2019-12-14T00:00:00Z" 
-authors: 
-- Shaoyi Li
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
