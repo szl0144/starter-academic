@@ -24,24 +24,16 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - organization: Zhejiang, China
-  date_end: ""
-  date_start: "2017-07-01"
+  date_end: "2016-07-01"
   title: First prize in the 2nd Zhejiang Internet Business Plan Competition
-  url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2017-12-21"
-  date_start: "2017-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
-  url: ""
+- organization: Zhejiang, China
+  date_end: "2017-04-01"
+  title: 2015 and 2016 National Undergraduate entrepreneurship training program
+- organization: Zhejiang, China
+  date_end: "2016-05-01"
+  title: First prize in China College Student' Entrepreneurship Competition(Zhejiang Division)
+- organization: Zhejiang, China
+  date_end: "2016-05-15"
+  title: Honor of Top 10 best student of the School of Electronics and Information
+
 ---
