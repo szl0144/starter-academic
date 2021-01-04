@@ -24,16 +24,16 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - organization: Zhejiang, China
-  date_end: "2016-07-01"
+  date_start: "2016-07-01"
   title: First prize in the 2nd Zhejiang Internet Business Plan Competition
 - organization: Zhejiang, China
-  date_end: "2017-04-01"
+  date_start: "2017-04-01"
   title: 2015 and 2016 National Undergraduate entrepreneurship training program
 - organization: Zhejiang, China
-  date_end: "2016-05-01"
+  date_start: "2016-05-01"
   title: First prize in China College Student' Entrepreneurship Competition(Zhejiang Division)
 - organization: Zhejiang, China
-  date_end: "2016-05-15"
+  date_start: "2016-05-15"
   title: Honor of Top 10 best student of the School of Electronics and Information
 
 ---
