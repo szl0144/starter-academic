@@ -29,8 +29,8 @@ content:
     tag: '*'
   - name: Computing Network
     tag: Computing Network
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Machine Learning
+    tag: Machine Learning
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
