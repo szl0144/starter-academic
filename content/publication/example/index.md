@@ -2,7 +2,7 @@
 
 
 title: "Low Latency Queuing Control in Extendable Mobile Ad-hoc Network Emulator (EMANE)"
-authors:"admin"
+authors: ["Shaoyi Li"]
 date: "2019-12-01"
 publication_types: ["7"]
 
