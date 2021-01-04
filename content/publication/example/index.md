@@ -23,8 +23,7 @@ featured: true
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- example
+url_code: 'https://github.com/szl0144/emane'
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
