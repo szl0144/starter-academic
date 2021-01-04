@@ -48,7 +48,8 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
-publishDate: "2019-12-14T00:00:00Z" authors: 
+publishDate: "2019-12-14T00:00:00Z" 
+authors: 
 - Shaoyi Li
 
 # Featured image
