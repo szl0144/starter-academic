@@ -4,6 +4,9 @@ summary: Implemented and debugged a WiFi batteries lifetime saving scheduling al
 tags:
 - Computing Network
 date: "2019-12-15T00:00:00Z"
+header:
+  image: "featured.jpg"
+  caption: ""
 image:
   caption: ""
   focal_point: ""
