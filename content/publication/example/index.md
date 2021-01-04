@@ -9,8 +9,6 @@ authors:
 - Shaoyi Li
 
 date: "2019-12-14T00:00:00Z"
-doi: ""
-
 # Schedule page publish date (NOT publication's date).
 
 
