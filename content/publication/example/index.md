@@ -29,7 +29,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: "publication/sildes.pdf"
+slides: "sildes.pdf"
 
 sitemap:
   priority : 0.8
