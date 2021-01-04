@@ -23,10 +23,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: ME of Electrical and Computing Engineering 
+  - course: M.S. of Electrical and Computing Engineering 
     institution: Auburn University
     year: 12/2020
-  - course: BE of Electronic and Information Engineering
+  - course: B.S. of Electronic and Information Engineering
     institution: Hangzhou Dianzi University
     year: 07/2017
 
