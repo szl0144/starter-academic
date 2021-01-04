@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Low Latency Queuing Control in Extendable Mobile Ad-hoc Network Emulator (EMANE)
+title: Publications
 subtitle: ""
 
 content:
