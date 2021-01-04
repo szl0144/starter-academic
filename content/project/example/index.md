@@ -8,9 +8,6 @@ date: "2020-09-15T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
 
 links:
 url_code: "https://github.com/szl0144/EMANE_CORE"
