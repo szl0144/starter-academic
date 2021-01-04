@@ -11,7 +11,7 @@ date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-12-14T00:00:00Z"
+
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -25,7 +25,9 @@ publication_short:
 
 abstract: 
 
-
+publishDate: "2019-12-14T00:00:00Z"
+authors:
+- Shaoyi Li
 # Summary. An optional shortened abstract.
 summary: 
 tags: []
