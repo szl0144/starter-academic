@@ -24,13 +24,8 @@ featured: true
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 url_code: 'https://github.com/szl0144/emane'
+url_slides: 'https://www.dropbox.com/s/g0303fmrcloupgg/slides.pdf?dl=0'
 
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: "example"
 
 sitemap:
   priority : 0.8
