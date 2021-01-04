@@ -5,7 +5,6 @@ tags:
 external_link: "https://github.com/szl0144/NS3_Wifi_CSMA"
 - Computing Network
 date: "2019-12-15T00:00:00Z"
-image: featured.jpg
 
 ---
 
