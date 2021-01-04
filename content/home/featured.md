@@ -19,9 +19,9 @@ content:
   count: 0
   # Filter on criteria
   filters:
-    author: "Shaoyi Li"
+    author: ""
     category: ""
-    publication_type: "7"
+    publication_type: ""
     tag: ""
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
