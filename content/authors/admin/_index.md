@@ -38,9 +38,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
+- icon: skype
   icon_pack: fab
-  link: https://twitter.com/home
+  link: https://join.skype.com/invite/r4dWgD9LQo2S
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?hl=zh-CN&user=V-KMcPcAAAAJ
