@@ -24,11 +24,22 @@ feature:
   icon: robot
   icon_pack: fas
   name: Machine Learning
-- description: briefcase
-  icon: camera-retro
+- description: Dell Server, VMware vSphere, Zabbix<br />CentOS, Ubuntu, Windows, SUSE
+  icon: linux
+  icon_pack: fas
+  name: System
+- description: 
+  icon: graduation-cap
+  icon_pack: fas
+  name: Research
+- description: 
+  icon: briefcase
   icon_pack: fas
   name: Marketing and Sales
-
+- description: 
+  icon: microsoft
+  icon_pack: fas
+  name: Microsoft Office
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
