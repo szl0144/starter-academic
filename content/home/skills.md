@@ -26,7 +26,7 @@ feature:
   name: Machine Learning
 - description: Dell Server, VMware vSphere, Zabbix<br />CentOS, Ubuntu, Windows, SUSE
   icon: linux
-  icon_pack: fas
+  icon_pack: far
   name: System
 - description: 
   icon: graduation-cap
@@ -38,7 +38,7 @@ feature:
   name: Marketing and Sales
 - description: 
   icon: microsoft
-  icon_pack: fas
+  icon_pack: far
   name: Microsoft Office
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
