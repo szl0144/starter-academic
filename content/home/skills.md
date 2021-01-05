@@ -16,14 +16,14 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: C/C++, MySQL, Python <br />MATLAB，HTML，CSS
+- description: C/C++, MySQL, Python<br />MATLAB，HTML，CSS
   icon: desktop
   icon_pack: fas
   name: Programming
-- description: 100%
-  icon: chart-line
+- description: CNN, RNN, GAN, cGANs<br />LSTM, DispNet, SEIR
+  icon: user-robot
   icon_pack: fas
-  name: Statistics
+  name: Machine Learning
 - description: 10%
   icon: camera-retro
   icon_pack: fas
