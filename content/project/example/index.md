@@ -1,6 +1,6 @@
 ---
 title: Low Latency Queuing Control in Extendable Mobile Ad-hoc Network Emulator (EMANE)
-font_size=12
+font_size="12"
 summary: Designed and tested a novel low-latency network scheduling module for various queueing policies using C/C++ under Linux Ubuntu system, and evaluated the algorithm in WAN under Common Open Research Emulator (CORE)
 tags:
 - Computing Network
