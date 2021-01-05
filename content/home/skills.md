@@ -20,6 +20,10 @@ feature:
   icon: desktop
   icon_pack: fas
   name: Programming
+- description: Wireless Network, Network Protocol
+  icon: network-wired
+  icon_pack: fas
+  name: Computing Network
 - description: CNN, RNN, GAN, cGANs<br />LSTM, DispNet, SEIR
   icon: robot
   icon_pack: fas
@@ -36,10 +40,7 @@ feature:
   icon: briefcase
   icon_pack: fas
   name: Marketing and Sales
-- description: 
-  icon: microsoft
-  icon_pack: far
-  name: Microsoft Office
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
