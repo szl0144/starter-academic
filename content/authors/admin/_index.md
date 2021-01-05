@@ -50,6 +50,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/shaoyi-li-096835140/
+- icon: wechat
+  icon_pack: fab
+  link: https://drive.google.com/file/d/1wkxEw0Cu87fmOHH_VLXoZ9CX4U-EU66V/view?usp=sharing
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
