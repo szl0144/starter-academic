@@ -21,7 +21,7 @@ feature:
   icon_pack: fas
   name: Programming
 - description: CNN, RNN, GAN, cGANs<br />LSTM, DispNet, SEIR
-  icon: user-robot
+  icon: robot
   icon_pack: fas
   name: Machine Learning
 - description: 10%
