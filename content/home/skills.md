@@ -24,10 +24,10 @@ feature:
   icon: robot
   icon_pack: fas
   name: Machine Learning
-- description: 10%
+- description: briefcase
   icon: camera-retro
   icon_pack: fas
-  name: Photography
+  name: Marketing and Sales
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
