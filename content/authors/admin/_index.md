@@ -38,12 +38,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: skype
-  icon_pack: fab
-  link: https://join.skype.com/invite/r4dWgD9LQo2S
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.com/citations?hl=zh-CN&user=V-KMcPcAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/szl0144
@@ -51,8 +45,14 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/shaoyi-li-096835140/
 - icon: wechat
-  icon_pack: fab
+  icon_pack: fas
   link: https://drive.google.com/file/d/1wkxEw0Cu87fmOHH_VLXoZ9CX4U-EU66V/view?usp=sharing
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: fas
+  link: https://scholar.google.com/citations?hl=zh-CN&user=V-KMcPcAAAAJ
+- icon: skype
+  icon_pack: fab
+  link: https://join.skype.com/invite/r4dWgD9LQo2S
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
