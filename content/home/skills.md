@@ -20,7 +20,7 @@ feature:
   icon: desktop
   icon_pack: fas
   name: Programming
-- description: Wireless Network, Network Protocol
+- description: Wireless Network<br />Network Protocol
   icon: network-wired
   icon_pack: fas
   name: Computing Network
@@ -30,7 +30,7 @@ feature:
   name: Machine Learning
 - description: Dell Server, VMware vSphere, Zabbix<br />CentOS, Ubuntu, Windows, SUSE
   icon: linux
-  icon_pack: far
+  icon_pack: fab
   name: System
 - description: 
   icon: graduation-cap
